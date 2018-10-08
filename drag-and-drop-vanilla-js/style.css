@@ -1,0 +1,8 @@
+.drag-drop-list {
+    cursor: pointer;
+}
+
+.hovered {
+    border: 2px dashed #ff0000;
+    background-color: #00ff00;
+}
