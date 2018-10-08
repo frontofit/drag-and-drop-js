@@ -1,0 +1,17 @@
+# http://editorconfig.org
+# Mod of the editor config supplied by angular-cli
+# https://github.com/angular/angular-cli/blob/master/.editorconfig
+
+root = true
+
+[*.{ts,tsx,js,jsx}]
+charset = utf-8
+indent_style = space
+indent_size = 2
+insert_final_newline = true
+spaces_around_brackets = inside
+trim_trailing_whitespace = true
+
+[*.md]
+insert_final_newline = false
+trim_trailing_whitespace = true
